@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jahnvi-Tarun
 -  :chart_with_downwards_trend: I’m interested in data analytics as well as HR and business analytics
-- :computer: I'm skilled in SQL, Power BI, Tableau, R
+- :computer: I'm skilled in SQL, Power BI, Tableau
 - 🌱 I’m currently learning Python
 - 📫 You can reach to me at https://www.linkedin.com/in/jahnvi-tarun/
 
